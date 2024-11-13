@@ -1,5 +1,3 @@
-from asyncio import wait_for
-
 from selene import browser, be, have
 
 
